@@ -1,3 +1,7 @@
+** NOTE: Not for production use!** This repository exists primarily to test and
+get feedback on pre-release versions of [`elm-geometry`](https://github.com/ianmackenzie/elm-geometry).
+It may not be fully tested and breaking API changes may happen at any time.
+
 # elm-geometry [![Build Status](https://travis-ci.org/ianmackenzie/elm-geometry.svg?branch=master)](https://travis-ci.org/ianmackenzie/elm-geometry)
 
 `elm-geometry` is an [Elm](http://elm-lang.org) package for working with 2D and
