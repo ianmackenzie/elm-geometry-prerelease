@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "ianmackenzie/elm-geometry",
-    "summary": "2D/3D geometric data types and operations",
+    "name": "ianmackenzie/elm-geometry-prerelease",
+    "summary": "PRERELEASE version of elm-geometry",
     "license": "MPL-2.0",
-    "version": "1.1.0",
+    "version": "1.0.0",
     "exposed-modules": [
         "Arc2d",
         "Arc3d",
