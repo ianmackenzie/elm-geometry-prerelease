@@ -1,4 +1,4 @@
-** NOTE: Not for production use!** This repository exists primarily to test and
+**NOTE: Not for production use!** This repository exists primarily to test and
 get feedback on pre-release versions of [`elm-geometry`](https://github.com/ianmackenzie/elm-geometry).
 It may not be fully tested and breaking API changes may happen at any time.
 
